@@ -1,3 +1,3 @@
-import system
+import os
 
-system.os('python')
+os.system('python')
